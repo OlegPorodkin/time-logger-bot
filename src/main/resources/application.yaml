@@ -1,0 +1,10 @@
+telegram:
+  bot:
+    username: ${TG_BOT_USERNAME}
+    token: ${TG_BOT_TOKEN}
+
+api:
+  time-logger: ${TIME_LOGGER_API}
+
+server:
+  port: 8081
